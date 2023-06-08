@@ -1,0 +1,80 @@
+body {
+    background-color: #F4F4F4;
+    font-size: 16px;
+}
+
+body {
+    background-color: #F4F4F4;
+    
+}
+
+.asterisk {
+    font-size: 30px;
+    position: absolute;
+    right: 30px;
+    top: 8px;
+    color: #D20707;
+}
+
+.login {
+    width: 300px;
+    margin: 100px auto;
+}
+
+.login input {
+    margin-bottom: 10px;
+}
+
+.login .form-control {
+    background-color: #E5E5E5;
+}
+
+.login .btn {
+    background-color: #008dde;
+}
+
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-size: 1em;
+}
+
+.form-control {
+    position: relative;
+}
+
+.h1 {
+    font-size: 65px;
+}
+
+.home-stats .stat {
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    padding: 20px;
+    font-size: 15px;
+    color: #FFF;
+}
+
+.home-stats .stat span {
+    display: block;
+    font-size: 50px;
+}
+
+.home-stats .st-members {
+    background-color: #3498db;
+}
+
+.home-stats .st-pending {
+    background-color: #3498db;
+}
+
+.home-stats .st-items {
+    background-color: #3498db;
+}
+
+.latest {
+    margin-top: 30px;
+}
